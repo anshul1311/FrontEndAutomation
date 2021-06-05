@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" >
+    <parameter name="browser" value="${browser}"></parameter>
+    <test verbose="2" preserve-order="true"
+          name="/media/anshul/939a8bbb-cf60-4c8a-9864-002af7f2fce4/anshulProjects/calculator/automation/src/test/java/TestClass.java">
+        <classes/>
+    </test>
+</suite>
